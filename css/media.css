@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1024px) {
+     .img img{
+        margin-left: 122px;
+        margin-top: 10px;
+    }
+    .text1, .text2{
+        margin-left: -156px;
+    }
+
+    .img2 img{
+        margin-left: 100px;
+    }
+}
+
+/* Surface gold  */
+
+@media only screen and (max-width: 540px) {
+    /* hr{
+        width: 209%;
+    } */
+
+    .work_1 img{
+        margin-right: 100px;
+    }
+}
